@@ -19,6 +19,10 @@ Education
 
 Work Experience
 ======
+* Sept, 2018–Jan, 2019: Research Intern
+  * Facebook AI Research, Seattle, USA
+  * Supervisors: Jacob Eisenstein and Omer Levy.
+
 * May, 2017–Aug, 2017: Research Assistant (Casual)
   * The University of Melbourne, Victoria, Australia
   * Research Duties: Responsible for implementing a bi-directional LSTM-CRF model for sequential tagging tasks in low-resource languages for the DARPA-funded LORELEI project in collaboration with CMU.
