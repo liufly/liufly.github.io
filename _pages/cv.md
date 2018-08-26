@@ -17,7 +17,7 @@ Education
 * M.Eng. Software Systems Engineering, The University of Melbourne, 2013
 * B.Eng. Computer Science, Beijing University of Technology, 2008
 
-Work Experience
+Professional Experience
 ======
 * Research Intern at Facebook AI Research (Seattle, USA), Sept, 2018–Jan, 2019
   * Supervisors: Jacob Eisenstein and Omer Levy.
