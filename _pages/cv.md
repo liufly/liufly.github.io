@@ -86,7 +86,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
+Patent Pending
+======
+Julien Perez, Scott Nowson, Fei Liu. Author personality trait recognition from short texts with a deep compositional learning approach. US20180203848A1.
+
 Professional Service
 ======
 * Reviewer for: EMNLP 2017, EMNLP 2018, CoNLL 2018
