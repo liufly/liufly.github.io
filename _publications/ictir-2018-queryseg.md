@@ -6,7 +6,7 @@ date: 2018-09-15
 venue: 'Proceedings of the 8th International Conference on the Theory of Information Retrieval (ICTIR 2018)'
 paperurl: 'http://aclweb.org/anthology/P18-2045'
 paperurltext: 'Link to ACL anthology'
-citation: 'Bahar Salehi, <b>Fei Liu</b>, Timothy Baldwin and Wilson Wong (2018) <a href="http://liufly.github.io/files/papers/acl-2018.pdf"><u>Multitask Learning for Query Segmentation in Job Search</u></a>, In <i>Proceedings of the 8th International Conference on the Theory of Information Retrieval (ICTIR 2018)</i>, Tianjin, China, pp. 278-284.'
+citation: 'Bahar Salehi, <b>Fei Liu</b>, Timothy Baldwin and Wilson Wong (2018) <a href="http://liufly.github.io/files/papers/ictir-2018-queryseg"><u>Multitask Learning for Query Segmentation in Job Search</u></a>, In <i>Proceedings of the 8th International Conference on the Theory of Information Retrieval (ICTIR 2018)</i>, Tianjin, China, pp. 179-182.'
 ---
 
 ```
@@ -16,7 +16,7 @@ citation: 'Bahar Salehi, <b>Fei Liu</b>, Timothy Baldwin and Wilson Wong (2018) 
   booktitle = {Proceedings of the 8th International Conference on the Theory of Information Retrieval (ICTIR 2018)},
   year      = {2018},
   address   = {Tianjin, China},
-  pages     = {278--284}
+  pages     = {179--182}
 }
 ```
 
