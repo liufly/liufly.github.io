@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/ictir-2018-queryseg
 date: 2018-09-15
 venue: 'Proceedings of the 8th International Conference on the Theory of Information Retrieval (ICTIR 2018)'
-paperurl: 'http://aclweb.org/anthology/P18-2045'
-paperurltext: 'Link to ACL anthology'
-citation: 'Bahar Salehi, <b>Fei Liu</b>, Timothy Baldwin and Wilson Wong (2018) <a href="http://liufly.github.io/files/papers/ictir-2018-queryseg.pdf"><u>Multitask Learning for Query Segmentation in Job Search</u></a>, In <i>Proceedings of the 8th International Conference on the Theory of Information Retrieval (ICTIR 2018)</i>, Tianjin, China, pp. 179-182.'
+paperurl: 'https://dl.acm.org/citation.cfm?id=3234965'
+paperurltext: 'Link to ACM DL'
+citation: 'Bahar Salehi, <b>Fei Liu</b>, Timothy Baldwin and Wilson Wong (2018) <a href="http://liufly.github.io/files/papers/ictir-2018-queryseg.pdf"><u>Multitask Learning for Query Segmentation in Job Search</u></a>, In <i>Proceedings of the 8th International Conference on the Theory of Information Retrieval (ICTIR 2018)</i>, Tianjin, China, pp. 179-182. <strong style="color: red;">Best Poster Award</strong>'
 ---
 
 ```
