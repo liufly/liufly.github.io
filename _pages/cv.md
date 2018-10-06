@@ -19,8 +19,8 @@ Education
 
 Professional Experience
 ======
-* Research Intern at Facebook AI Research (Seattle, USA), Sept, 2018–Jan, 2019
-  * Supervisors: Jacob Eisenstein and Omer Levy.
+* Research Intern at Facebook AI Research (Seattle, WA, USA), Sept, 2018–Jan, 2019
+  * Supervisors: <a href="https://www.cc.gatech.edu/~jeisenst/"><u>Jacob Eisenstein</u></a> and <a href="https://levyomer.wordpress.com/"><u>Omer Levy</u></a>.
 
 * Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), May, 2017–Aug, 2017
   * Research Duties: Responsible for implementing a bi-directional LSTM-CRF model for sequential tagging tasks in low-resource languages for the DARPA-funded LORELEI project in collaboration with CMU.
@@ -43,6 +43,7 @@ Professional Experience
 
 Awards and Additional Certificates
 ======
+* Sept, 2018: <a href="http://ictir2018.org/stg.html#award"><u>ICTIR 2018 Best Short Paper Award</u></a>
 * Dec, 2017: <a href="http://alta2017.alta.asn.au/index.html"><u>ALTA 2017 Best Poster Award</u></a>
 * Nov, 2017: ALTA 2017 Student Scholarship
 * Oct, 2017: Google PhD Travel Scholarship Award
