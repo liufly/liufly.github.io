@@ -3,17 +3,17 @@ title: "Capturing Long-range Contextual Dependencies with Memory-enhanced Condit
 collection: publications
 permalink: /publication/ijcnlp-2017-mecrf
 date: 2017-11-28
-venue: 'Proceedings of the Eighth International Joint Conference on Natural Language Processing (IJCNLP 2017)'
+venue: 'Proceedings of the Eighth International Joint Conference on Natural Language Processing'
 paperurl: 'http://www.aclweb.org/anthology/I17-1056'
 paperurltext: 'Link to ACL anthology'
-citation: '<b>Fei Liu</b>, Timothy Baldwin and Trevor Cohn (2017) <a href="http://liufly.github.io/files/papers/ijcnlp-2017.pdf"><u>Capturing Long-range Contextual Dependencies with Memory-enhanced Conditional Random Fields</u></a>, In <i>Proceedings of the Eighth International Joint Conference on Natural Language Processing (IJCNLP 2017)</i>, Taipei, Taiwan, pp. 555-565.'
+citation: '<b>Fei Liu</b>, Timothy Baldwin and Trevor Cohn (2017) <a href="http://liufly.github.io/files/papers/ijcnlp-2017.pdf"><u>Capturing Long-range Contextual Dependencies with Memory-enhanced Conditional Random Fields</u></a>, In <i>Proceedings of the Eighth International Joint Conference on Natural Language Processing</i>, Taipei, Taiwan, pp. 555-565.'
 ---
 
 ```
 @InProceedings{Liu+:2017,
   author    = {Liu, Fei  and  Baldwin, Timothy  and  Cohn, Trevor},
   title     = {Capturing Long-range Contextual Dependencies with Memory-enhanced Conditional Random Fields},
-  booktitle = {Proceedings of the Eighth International Joint Conference on Natural Language Processing (IJCNLP 2017)},
+  booktitle = {Proceedings of the Eighth International Joint Conference on Natural Language Processing},
   year      = {2017},
   address   = {Taipei, Taiwan},
   pages     = {555--565}

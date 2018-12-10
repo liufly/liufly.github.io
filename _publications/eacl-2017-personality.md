@@ -3,17 +3,17 @@ title: "A Language-independent and Compositional Model for Personality Trait Rec
 collection: publications
 permalink: /publication/eacl-2017-personality
 date: 2017-04-05
-venue: 'Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017)'
+venue: 'Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics'
 paperurl: 'http://www.aclweb.org/anthology/E17-1071'
 paperurltext: 'Link to ACL anthology'
-citation: '<b>Fei Liu</b>, Julien Perez and Scott Nowson (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-personality.pdf"><u>A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts</u></a>, In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017)</i>, Valencia, Spain, pp. 754-764.'
+citation: '<b>Fei Liu</b>, Julien Perez and Scott Nowson (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-personality.pdf"><u>A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts</u></a>, In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics</i>, Valencia, Spain, pp. 754-764.'
 ---
 
 ```
 @InProceedings{Liu+:2017,
   author    = {Liu, Fei  and  Perez, Julien  and  Nowson, Scott},
   title     = {A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts},
-  booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017)},
+  booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics},
   year      = {2017},
   address   = {Valencia, Spain},
   pages     = {754--764}

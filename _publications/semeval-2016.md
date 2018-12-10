@@ -3,17 +3,17 @@ title: "VectorWeavers at SemEval-2016 Task 10: From Incremental Meaning to Seman
 collection: publications
 permalink: /publication/semeval-2016
 date: 2016-06-16
-venue: 'Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016)'
+venue: 'Proceedings of the 10th International Workshop on Semantic Evaluation'
 paperurl: 'https://aclanthology.info/papers/S16-1145/s16-1145'
 paperurltext: 'Link to ACL anthology'
-citation: 'Andrei Shcherbakov, Ekaterina Vylomova, <b>Fei Liu</b> and Timothy Baldwin (2016) <a href="http://liufly.github.io/files/papers/semeval-2016.pdf"><u>VectorWeavers at SemEval-2016 Task 10: From Incremental Meaning to Semantic Unit (phrase by phrase)</u></a>, In <i>Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016)</i>, San Diego, USA, pp. 946-952.'
+citation: 'Andrei Shcherbakov, Ekaterina Vylomova, <b>Fei Liu</b> and Timothy Baldwin (2016) <a href="http://liufly.github.io/files/papers/semeval-2016.pdf"><u>VectorWeavers at SemEval-2016 Task 10: From Incremental Meaning to Semantic Unit (phrase by phrase)</u></a>, In <i>Proceedings of the 10th International Workshop on Semantic Evaluation</i>, San Diego, USA, pp. 946-952.'
 ---
 
 ```
 @InProceedings{Scherbakov+:2016,
   author = 	{Scherbakov, Andreas and Vylomova, Ekaterina and Liu, Fei and Baldwin, Timothy},
   title = 	{VectorWeavers at SemEval-2016 Task 10: From Incremental Meaning to Semantic Unit (phrase by phrase)},
-  booktitle = {Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016)},
+  booktitle = {Proceedings of the 10th International Workshop on Semantic Evaluation},
   year = 	{2016},
   address = {San Diego, USA},
   pages = 	{946--952}
