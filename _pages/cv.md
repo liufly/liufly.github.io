@@ -37,7 +37,7 @@ Professional Experience
 * Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), Sept, 2014–Dec, 2014: 
 
 * Software Engineer at Hitachi Government & Public Corporation System Engineering, Ltd. (Tokyo, Japan), Oct, 2008–June, 2012:
-  * Participated (as a core developer) in the development of the GOOD-DESIGN-AWARD-winning and KIDS-DESIGN-AWARD-winning web application named ZoomSight (No.1 in market share)
+  * Participated (as a core developer) in the development of the GOOD-DESIGN-AWARD-winning and KIDS-DESIGN-AWARD-winning web application named ZoomSight (No.1 in market share), a Japanese NLP web application for the vision impaired, capable of adding phonetic scripts to and reading the contents of HTML pages
 
 * Software Engineer (Intern) at Hitachi Beijing Tech Information Systems Co., Ltd. (Beijing, China), Feb, 2008–Aug, 2008:
 
@@ -96,6 +96,6 @@ Julien Perez, Fei Liu, Scott Nowson. Gated end-to-end memory network. US20180232
 
 Professional Service
 ======
-* Reviewer for: EMNLP 2017, EMNLP 2018, CoNLL 2018
+* Reviewer for: EMNLP 2017, EMNLP 2018, CoNLL 2018, NAACL 2019, ACL 2019
 * PC member: <a href="https://peopleswksh.github.io/"><u>PEOPLES 2018</u></a>
 * Student volunteer: ACL 2018
