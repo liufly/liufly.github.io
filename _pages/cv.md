@@ -20,13 +20,14 @@ Education
 Professional Experience
 ======
 * Research Intern at Facebook AI Research (Seattle, WA, USA), Sept, 2018–Jan, 2019
-  * Supervisors: <a href="https://www.cc.gatech.edu/~jeisenst/"><u>Jacob Eisenstein</u></a> and <a href="https://levyomer.wordpress.com/"><u>Omer Levy</u></a>.
+  * Research Topic and Achievements: Coreference resolution, memory-enhanced deep learning models, paper accepted at ACL 2019
+  * Supervisors: <a href="https://www.cc.gatech.edu/~jeisenst/"><u>Jacob Eisenstein</u></a> and <a href="https://www.cs.washington.edu/people/faculty/lsz"><u>Luke Zettlemoyer</u></a>.
 
 * Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), May, 2017–Aug, 2017
   * Research Duties: Responsible for implementing a bi-directional LSTM-CRF model for sequential tagging tasks in low-resource languages for the DARPA-funded LORELEI project in collaboration with CMU.
 
 * Research Intern at Xerox Research Centre Europe (Grenoble, France), May, 2016–Oct, 2016:
-  * Research Topic and Achievements: Memory Networks, deep learning approach for personality trait recognition, 3 long conference papers accepted at EACL 2017
+  * Research Topic and Achievements: Memory Networks, deep learning approach for personality trait recognition, 3 papers accepted at EACL 2017
   * Supervisors: <a href="http://www.nowson.com/"><u>Scott Nowson</u></a>, Julien Perez
   
 
