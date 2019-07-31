@@ -11,7 +11,7 @@ citation: '<b>Fei Liu</b>, Luke Zettlemoyer and Jacob Eisenstein <a href="http:/
 
 ```
 @InProceedings{Liu+:2019,
-  author    = {Liu, Fei  and  Zettlemoyer, Luke and Jacob, Eisenstein},
+  author    = {Liu, Fei  and  Zettlemoyer, Luke and Eisenstein, Jacob},
   title     = {The Referential Reader: A RecurrentEntity Network for Anaphora Resolution},
   booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
   year      = {2019},
