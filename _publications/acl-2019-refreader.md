@@ -6,7 +6,7 @@ date: 2019-07-28
 venue: 'Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics'
 paperurl: 'https://www.aclweb.org/anthology/P19-1593'
 paperurltext: 'Link to ACL anthology'
-citation: '<b>Fei Liu</b>, Luke Zettlemoyer and Jacob Eisenstein <a href="http://liufly.github.io/files/papers/acl-2019.pdf"><u>The Referential Reader: A RecurrentEntity Network for Anaphora Resolution</u></a>, In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>, Florence, Italy, pp. 5918-5925'
+citation: '<b>Fei Liu</b>, Luke Zettlemoyer and Jacob Eisenstein <a href="http://liufly.github.io/files/papers/acl-2019.pdf"><u>The Referential Reader: A RecurrentEntity Network for Anaphora Resolution</u></a>. In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>, Florence, Italy, pp. 5918-5925'
 ---
 
 ```

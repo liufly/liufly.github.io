@@ -6,7 +6,7 @@ date: 2017-04-05
 venue: 'Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics'
 paperurl: 'http://www.aclweb.org/anthology/E17-1071'
 paperurltext: 'Link to ACL anthology'
-citation: '<b>Fei Liu</b>, Julien Perez and Scott Nowson (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-personality.pdf"><u>A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts</u></a>, In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics</i>, Valencia, Spain, pp. 754-764.'
+citation: '<b>Fei Liu</b>, Julien Perez and Scott Nowson (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-personality.pdf"><u>A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts</u></a>. In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics</i>, Valencia, Spain, pp. 754-764.'
 ---
 
 ```

@@ -6,7 +6,7 @@ date: 2017-04-05
 venue: 'Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics'
 paperurl: 'http://www.aclweb.org/anthology/E17-1029'
 paperurltext: 'Link to ACL anthology'
-citation: 'Julien Perez and <b>Fei Liu</b> (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-dialog.pdf"><u>Dialog state tracking, a machine reading approach using Memory Network</u></a>, In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics</i>, Valencia, Spain, pp. 305-314.'
+citation: 'Julien Perez and <b>Fei Liu</b> (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-dialog.pdf"><u>Dialog state tracking, a machine reading approach using Memory Network</u></a>. In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics</i>, Valencia, Spain, pp. 305-314.'
 ---
 
 ```

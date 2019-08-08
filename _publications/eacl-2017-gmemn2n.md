@@ -6,7 +6,7 @@ date: 2017-04-05
 venue: 'Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics'
 paperurl: 'http://www.aclweb.org/anthology/E17-1001'
 paperurltext: 'Link to ACL anthology'
-citation: '<b>Fei Liu</b> and Julien Perez (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-gmemn2n.pdf"><u>Gated End-to-End Memory Networks</u></a>, In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics</i>, Valencia, Spain, pp. 1-10.'
+citation: '<b>Fei Liu</b> and Julien Perez (2017) <a href="http://liufly.github.io/files/papers/eacl-2017-gmemn2n.pdf"><u>Gated End-to-End Memory Networks</u></a>. In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics</i>, Valencia, Spain, pp. 1-10.'
 ---
 
 ```

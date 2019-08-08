@@ -6,7 +6,7 @@ date: 2016-07-18
 venue: 'Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval'
 paperurl: 'https://dl.acm.org/citation.cfm?id=2914737'
 paperurltext: 'Link to ACM DL'
-citation: '<b>Fei Liu</b>, Alistair Moffat, Timothy Baldwin and Xiuzhen Zhang (2016) <a href="http://liufly.github.io/files/papers/sigir-2016.pdf"><u>Quit while ahead: Evaluating truncated rankings</u></a>, In <i>Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>, Pisa, Italy, pp. 953-956.'
+citation: '<b>Fei Liu</b>, Alistair Moffat, Timothy Baldwin and Xiuzhen Zhang (2016) <a href="http://liufly.github.io/files/papers/sigir-2016.pdf"><u>Quit while ahead: Evaluating truncated rankings</u></a>. In <i>Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>, Pisa, Italy, pp. 953-956.'
 ---
 
 ```
