@@ -4,18 +4,19 @@ collection: publications
 permalink: /publication/acl-2019-refreader
 date: 2019-07-28
 venue: 'Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics'
-paperurl: 'http://aclweb.org/anthology/P18-2045'
+paperurl: 'https://www.aclweb.org/anthology/P19-1593'
 paperurltext: 'Link to ACL anthology'
-citation: '<b>Fei Liu</b>, Luke Zettlemoyer and Jacob Eisenstein (to appear) <a href="http://liufly.github.io/files/papers/acl-2019.pdf"><u>The Referential Reader: A RecurrentEntity Network for Anaphora Resolution</u></a>, In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>, Florence, Italy.'
+citation: '<b>Fei Liu</b>, Luke Zettlemoyer and Jacob Eisenstein <a href="http://liufly.github.io/files/papers/acl-2019.pdf"><u>The Referential Reader: A RecurrentEntity Network for Anaphora Resolution</u></a>, In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>, Florence, Italy, pp. 5918-5925'
 ---
 
 ```
 @InProceedings{Liu+:2019,
-  author    = {Liu, Fei  and  Zettlemoyer, Luke and Jacob, Eisenstein},
+  author    = {Liu, Fei  and  Zettlemoyer, Luke and Eisenstein, Jacob},
   title     = {The Referential Reader: A RecurrentEntity Network for Anaphora Resolution},
   booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
   year      = {2019},
-  address   = {Florence, Italy}
+  address   = {Florence, Italy},
+  pages     = {5918--5925}
 }
 ```
 
