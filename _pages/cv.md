@@ -97,6 +97,6 @@ Julien Perez, Fei Liu, Scott Nowson. Gated end-to-end memory network. US20180232
 
 Professional Service
 ======
-* Reviewer for: EMNLP 2017, EMNLP 2018, CoNLL 2018, NAACL 2019, ACL 2019
-* PC member: <a href="https://peopleswksh.github.io/"><u>PEOPLES 2018</u></a>
+* Reviewer for: EMNLP 2017, 2018, 2019; CoNLL 2018; NAACL 2019; ACL 2019, 2020
+* PC member: <a href="https://peopleswksh.github.io/"><u>PEOPLES 2018</u></a>, <a href="https://sites.google.com/view/ecnlp/committee?authuser=0"><u>ECNLP</u></a>
 * Student volunteer: ACL 2018
