@@ -55,7 +55,7 @@ Awards and Additional Certificates
 * July, 2016: SIGIR Travel Scholarship
 * May, 2016: 3rd Prize, <a href="https://news.microsoft.com/en-au/2016/05/11/melbourne-university-holds-data-scientist-hackathon/"><u>Microsoft Data Science Student Challenge Hackathon</u></a>
 * Feb, 2015 - Present: Australian Postgraduate Awards (APA Scholarship)
-* Mar, 2013: IELTS Overall: 8.5/9.0 (listening: 8.5/9.0, reading: 9.0/9.0, sriting: 8.5/9.0, speaking: 7.0/9.0)
+* Mar, 2013: IELTS Overall: 8.5/9.0 (listening: 8.5/9.0, reading: 9.0/9.0, writing: 8.5/9.0, speaking: 7.0/9.0)
 * Apr, 2011: Oracle Certified Professional, Java SE 6 Programmer
 * Dec, 2009: Japanese Language Proficiency Test, Level 1 (Top Level)
 
