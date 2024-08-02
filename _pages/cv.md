@@ -13,9 +13,6 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Computer Science (Natural Language Processing), The University of Melbourne, 2019 (expected)
-* M.Eng. Software Systems Engineering, The University of Melbourne, 2013
-* B.Eng. Computer Science, Beijing University of Technology, 2008 -->
 * Ph.D in Computer Science (Natural Language Processing), The University of Melbourne
 * M.Eng. Software Systems Engineering, The University of Melbourne
 * B.Eng. Computer Science, Beijing University of Technology
