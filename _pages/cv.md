@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-CV can be downloaded <a href="https://liufly.github.io/files/cv/cv.pdf"><u>here</u></a>
+<!-- CV can be downloaded <a href="https://liufly.github.io/files/cv/cv.pdf"><u>here</u></a> -->
 
 Education
 ======
-* Ph.D in Computer Science (Natural Language Processing), The University of Melbourne, 2019 (expected)
+<!-- * Ph.D in Computer Science (Natural Language Processing), The University of Melbourne, 2019 (expected)
 * M.Eng. Software Systems Engineering, The University of Melbourne, 2013
-* B.Eng. Computer Science, Beijing University of Technology, 2008
+* B.Eng. Computer Science, Beijing University of Technology, 2008 -->
+* Ph.D in Computer Science (Natural Language Processing), The University of Melbourne
+* M.Eng. Software Systems Engineering, The University of Melbourne
+* B.Eng. Computer Science, Beijing University of Technology
 
 Professional Experience
 ======
@@ -35,12 +38,12 @@ Professional Experience
   * Detailed Achievements: Customized Search Engine for Industry Partner. Managed to increase the accuracy of the query boundary detection process by 10% by applying machine learning techniques. Significantly improved the performance of the search engine (F-score from less than 10 to around 55 by boosting precision substantially and factoring in translation probabilities to detect paraphrases).
   * Supervisor: <a href="http://www.xiuzhenzhang.org/"><u>Xiuzhen Zhang</u></a>
 
-* Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), Sept, 2014–Dec, 2014: 
+* Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), Sept, 2014–Dec, 2014
 
-* Software Engineer at Hitachi Government & Public Corporation System Engineering, Ltd. (Tokyo, Japan), Oct, 2008–June, 2012:
+<!-- * Software Engineer at Hitachi Government & Public Corporation System Engineering, Ltd. (Tokyo, Japan), Oct, 2008–June, 2012:
   * Participated (as a core developer) in the development of the GOOD-DESIGN-AWARD-winning and KIDS-DESIGN-AWARD-winning web application named ZoomSight (No.1 in market share), a Japanese NLP web application for the vision impaired, capable of adding phonetic scripts to and reading the contents of HTML pages
 
-* Software Engineer (Intern) at Hitachi Beijing Tech Information Systems Co., Ltd. (Beijing, China), Feb, 2008–Aug, 2008:
+* Software Engineer (Intern) at Hitachi Beijing Tech Information Systems Co., Ltd. (Beijing, China), Feb, 2008–Aug, 2008: -->
 
 Awards and Additional Certificates
 ======
@@ -55,9 +58,9 @@ Awards and Additional Certificates
 * July, 2016: SIGIR Travel Scholarship
 * May, 2016: 3rd Prize, <a href="https://news.microsoft.com/en-au/2016/05/11/melbourne-university-holds-data-scientist-hackathon/"><u>Microsoft Data Science Student Challenge Hackathon</u></a>
 * Feb, 2015 - Present: Australian Postgraduate Awards (APA Scholarship)
-* Mar, 2013: IELTS Overall: 8.5/9.0 (listening: 8.5/9.0, reading: 9.0/9.0, writing: 8.5/9.0, speaking: 7.0/9.0)
+<!-- * Mar, 2013: IELTS Overall: 8.5/9.0 (listening: 8.5/9.0, reading: 9.0/9.0, writing: 8.5/9.0, speaking: 7.0/9.0)
 * Apr, 2011: Oracle Certified Professional, Java SE 6 Programmer
-* Dec, 2009: Japanese Language Proficiency Test, Level 1 (Top Level)
+* Dec, 2009: Japanese Language Proficiency Test, Level 1 (Top Level) -->
 
 Skills
 ======
