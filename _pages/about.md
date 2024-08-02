@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a (final-year) PhD student in natural language processing at The University of Melbourne under the supervision of [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/).
+I am a (final-year) PhD student in natural language processing at The University of Melbourne under the supervision of [Tim Baldwin](https://eltimster.github.io/www/) and [Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/).
 
 <!-- Currently, I am doing an internship at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research/) in Seattle, WA, working with [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and [Omer Levy](https://levyomer.wordpress.com/). -->
-Currently, I am doing an internship at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research/) in Seattle, WA, working with [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
+Currently, I am doing an internship at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research/) in Seattle, WA, working with [Jacob Eisenstein](https://jacobeisenstein.github.io/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
 
 
 
